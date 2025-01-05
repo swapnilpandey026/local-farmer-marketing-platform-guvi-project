@@ -30,7 +30,7 @@ Deployment: Docker, AWS
 
  # 1. Clone the repository:
 
- git clone https://github.com/yourusername/local-farmer-marketing-platform.git  
+https://github.com/swapnilpandey026/local-farmer-marketing-platform-guvi-project  
 
 # 2. Navigate to the project directory:
 
